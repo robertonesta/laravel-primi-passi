@@ -8,7 +8,7 @@
     <title>Welcome Laravel</title>
 </head>
 <body>
-    <h1>Home - Hello World
+    <h1>About
     </h1>
 
     <a href="{{route ('home')}}">Home</a>
